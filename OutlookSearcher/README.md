@@ -6,8 +6,7 @@ Compatible with cobalt strike
 
 ### Usage:
     Arguments:
-        Required:
-            searchterms     Specify a comma deliminated list of searchterms. This will search through every email in every Outlook folder.
+       searchterms     Specify a comma delimited list of searchterms. This will search through every email in every Outlook folder.
 
 ### Examples:
             OutlookSearcher.exe searchterms=password
