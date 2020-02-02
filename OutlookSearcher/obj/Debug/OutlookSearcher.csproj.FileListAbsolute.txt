@@ -1,6 +1,0 @@
-C:\Users\Karp\source\repos\OutlookSearcher\OutlookSearcher\bin\Debug\OutlookSearcher.exe.config
-C:\Users\Karp\source\repos\OutlookSearcher\OutlookSearcher\bin\Debug\OutlookSearcher.exe
-C:\Users\Karp\source\repos\OutlookSearcher\OutlookSearcher\bin\Debug\OutlookSearcher.pdb
-C:\Users\Karp\source\repos\OutlookSearcher\OutlookSearcher\obj\Debug\OutlookSearcher.csprojAssemblyReference.cache
-C:\Users\Karp\source\repos\OutlookSearcher\OutlookSearcher\obj\Debug\OutlookSearcher.exe
-C:\Users\Karp\source\repos\OutlookSearcher\OutlookSearcher\obj\Debug\OutlookSearcher.pdb
