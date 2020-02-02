@@ -1,6 +1,6 @@
 ﻿# OutlookSearcher
 
-OutlookSearcher uses COM to pull data from Outlook's MAPI namespace. Outlook must be running for this tool to work.
+OutlookSearcher uses COM to pull data from Outlook's MAPI namespace. Outlook does NOT need to be running for this tool to work.
 
 Compatible with cobalt strike
 
